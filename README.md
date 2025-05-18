@@ -1,0 +1,1 @@
+This project is a simple web-based CRUD (Create, Read, Update, Delete) application built using HTML, CSS, PHP, and MySQL. It allows users to manage user information (such as name, username, address, and contact number) through a clean and user-friendly interface. The backend handles database operations securely, while the frontend ensures smooth user interaction.
